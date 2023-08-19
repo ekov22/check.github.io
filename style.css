@@ -11,6 +11,11 @@ h1 {
   animation: fadeIn 2s;
 
 }
+.random {
+  top: 150px;
+  text-align: center;
+  color: blue;
+}
 
   @keyframes fadeIn {
     0% { opacity: 0; }
