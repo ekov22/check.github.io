@@ -1,3 +1,12 @@
+
+body {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(135deg, #e1b7e4, #b38dd3);
+}
+
 h1 {
+  top: 50px;
+  text-align: center;
   color: red;
 }
