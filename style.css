@@ -1,6 +1,6 @@
 
 body {
-  margin: 20px;
+  margin: 0;
   padding: 0;  
     height: 100vh;
   background: linear-gradient(#e1b7e4, #b38dd3);
@@ -8,10 +8,9 @@ body {
 
 header {
    position: fixed;
-   top: 0;
-   width: 100%;
-   height: 60px;   
-   background: #grey;
+   width:100%;
+height:10%;
+background:#f0cfcf;
 }
 
 h1 {
