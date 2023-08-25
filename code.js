@@ -23,4 +23,4 @@ function fnBrowserDetect(){
           document.querySelector("h1").innerText="You are using "+ browserName +" browser";         
   }
 
-console.log("why do u use " + fnBrowserDetect");
+console.log("why do u use " + fnBrowserDetect);
